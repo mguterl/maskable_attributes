@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "maskable_attributes"
     gem.summary = %Q{maskable attributes provides a simple way to mask or filter the output of a method.}
-    gem.description = %Q{maskable attributes provides a simple way to mask the output of a method.  maskable attributes works really well with the decorator / presenter pattern.TODO: longer description of your gem}
+    gem.description = %Q{maskable attributes provides a simple way to mask the output of a method.  maskable attributes works really well with the decorator / presenter pattern}
     gem.email = "mguterl@gmail.com"
     gem.homepage = "http://github.com/mguterl/maskable_attributes"
     gem.authors = ["Michael Guterl"]

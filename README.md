@@ -1,4 +1,4 @@
-= maskable_attributes
+# maskable_attributes
 
 maskable attributes provides a simple way to mask the output of a
 method.  maskable attributes works really well with the decorator /
@@ -82,7 +82,7 @@ override the default string masking if you choose to.
     MaskableAttributes.default_masking = "HIDDEN"
 
 
-== Note on Patches/Pull Requests
+## Note on Patches/Pull Requests
 
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -92,6 +92,6 @@ override the default string masking if you choose to.
   (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
-== Copyright
+## Copyright
 
 Copyright (c) 2010 Michael Guterl. See LICENSE for details.
